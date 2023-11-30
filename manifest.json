@@ -1,0 +1,9 @@
+{
+    "name": "Fnaf Power Outage",
+    "version_number": "1.0.0",
+	"website_url": "",
+    "description": "Changes the Radiation warning SFX to Toreador March",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
