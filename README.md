@@ -1,12 +1,6 @@
 # FNAF POWER OUTAGE MOD
 Changes the Radiation warning SFX to Toreador March
 
-## r2modman Installation
-1. Select pack from r2modman and install
-
-## Thunderstore App Installation
-1. Select pack from Thunderstore Mod Manager and install
-
 ## Manual Installation
 1. Install BepInEx
 2. Extract FnafPowerOutage.dll and toreadormarch into the plugins folder of BepInEx
@@ -16,3 +10,5 @@ Changes the Radiation warning SFX to Toreador March
 
 ## Changes
 - 1.0.0: The mod now exists
+
+- 1.0.1: Lowered the volume of the mod
